@@ -2,7 +2,6 @@ aaron-bond.better-comments
 christian-kohler.path-intellisense
 CoenraadS.bracket-pair-colorizer
 cstrap.python-snippets
-deque-systems.vscode-axe-linter
 dongli.python-preview
 idleberg.icon-fonts
 KevinRose.vsc-python-indent
@@ -17,6 +16,5 @@ oderwat.indent-rainbow
 Shan.code-settings-sync
 shardulm94.trailing-spaces
 steoates.autoimport
-vincaslt.highlight-matching-tag
 VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
