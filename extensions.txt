@@ -20,5 +20,3 @@ steoates.autoimport
 vincaslt.highlight-matching-tag
 VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
-code --list-extensions | % { "code --install-extension $_" }
-type extensions.txt | % { "code --install-extension $_" }
