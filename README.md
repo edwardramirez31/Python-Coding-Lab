@@ -8,6 +8,7 @@ Execute the corresponding commands in your command line in order to install VS C
 
 - Windows:
 > $files = Get-Content -Path extensions.txt
+
 > ForEach ($file in $files) { code --install-extension $file }
 - Mac:
 > cat extensions.txt | xargs -L 1 code --install-extension
