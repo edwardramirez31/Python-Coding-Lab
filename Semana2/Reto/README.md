@@ -1,4 +1,4 @@
-## Coding time!
+# Coding time!
 
 Algunos consejos para solucionar estos problemas
 
@@ -14,23 +14,23 @@ Algunos consejos para solucionar estos problemas
 4. En caso de que haya alguna parte del presudocódigo que no sepa hacer, escribir en Google: `¿Cómo hacer X cosa en Python?`
 5. En última instancia, si ya agotó sus recursos y posibilidades, buscar ayuda con alguien (Siempre pueden escribirme). Resuelva los retos de desarrollo en el orden que quiera, lo importante es que vaya resolviendo poco a poco y así ir ganando confianza.
 
-### Iterar y usar condiciones
+## Iterar y usar condiciones
 
 Escribe un programa en Python para encontrar los números que son que son múltiplos de 5 y 7, entre 1500 y 2700 (ambos incluidos)
 
-### Convertir temperatura
+## Convertir temperatura
 
 Escriba un programa Python para convertir temperaturas desde grados Celsius a Fahrenheit o al contrario, dependiendo del input del usuario.
 
 > Nota: Si ingresa 35C, el programa debe saber que se debe convertir a Fahrenheit. Si se ingresa 100F, de igual forma, dentro del software se debe intuir la conversión a Celsius
 
-### Adivina el número
+## Adivina el número
 
 Escriba un programa Python para adivinar un número generado aleatoriamente entre 1 y 9.
 
 > Nota: Se le pide al usuario que ingrese un número. Si el usuario adivina mal, el mensaje ("Ingresa un número") vuelve a aparecer hasta que el dato ingresado sea el correcto, en caso de acertar, el usuario obtendrá un "¡Bien adivinado!" como output y el programa saldrá.
 
-### Patrón de caracteres
+## Patrón de caracteres
 
 Escriba un programa en Python para construir el siguiente patrón. (Pista: usar bucle for)
 
@@ -46,11 +46,11 @@ Escriba un programa en Python para construir el siguiente patrón. (Pista: usar 
 *
 ```
 
-### Invertir palabras
+## Invertir palabras
 
 Escriba un programa Python que acepte una palabra del usuario y la invierta por medio de un bucle
 
-### Pares e impares
+## Pares e impares
 
 Escriba un programa en Python para contar el número de números pares e impares de una serie de números.
 
@@ -59,13 +59,13 @@ Escriba un programa en Python para contar el número de números pares e impares
 > Número de números pares: 5
 > Número de números impares: 4
 
-### Omitir valores
+## Omitir valores
 
 Escriba un programa Python que imprima todos los números del 0 al 6 excepto el 3 y el 6.
 
 > Resultado esperado: 0 1 2 4 5
 
-### Fibonacci
+## Fibonacci
 
 Escriba un programa para obtener la serie de Fibonacci entre 0 y 50.
 
@@ -73,7 +73,7 @@ Escriba un programa para obtener la serie de Fibonacci entre 0 y 50.
 > 0, 1, 1, 2, 3, 5, 8, 13, 21,. ...
 > Por defecto, los dos primeros números son 0 y 1, luego, cada número se encuentra sumando los dos números anteriores.
 
-### Hagamos Fizzbuzz
+## Hagamos Fizzbuzz
 
 Escriba un programa que itere en los números enteros del 1 al 50. Para múltiplos de tres, imprima "Fizz" en lugar del número y para los múltiplos de cinco imprima "Buzz". Para números que son múltiplos de tres y cinco, imprima "FizzBuzz". Si ninguna condición se cumple, solo imprima el número.
 
@@ -86,7 +86,7 @@ Escriba un programa que itere en los números enteros del 1 al 50. Para múltipl
 > buzz
 > ...
 
-### A contar números binarios
+## A contar números binarios
 
 Escriba un programa Python que acepte una secuencia de números binarios de 4 dígitos separados por comas como entrada e imprima los números que son divisibles por 5 en una secuencia separada por comas.
 
@@ -94,14 +94,14 @@ Escriba un programa Python que acepte una secuencia de números binarios de 4 d�
 > **Resultado esperado:** 1010
 > **Pista:** 1010 en el sistema decimal es 10
 
-### Obtener números y letras
+## Obtener números y letras
 
 Escriba un programa Python que acepte una cadena y calcule el número de dígitos y letras.
 
 > **Entrada:** "Python 3.2"
 > **Salida:** "las letras ingresadas fueron 6 y losdígitos 2"
 
-### Software que valida contraseñas
+## Software que valida contraseñas
 
 Escriba un programa Python para verificar la validez de la contraseña ingresada por los usuarios acorde con las siguientes reglas:
 
@@ -111,7 +111,7 @@ Escriba un programa Python para verificar la validez de la contraseña ingresada
 - Longitud mínima 6 caracteres.
 - Longitud máxima de 16 caracteres.
 
-### Patrones
+## Patrones
 
 - Escriba un programa en Python para imprimir el patrón alfabético 'E'
 
@@ -135,11 +135,11 @@ Escriba un programa Python para verificar la validez de la contraseña ingresada
 #### ####
 ```
 
-### Multiplicación con bucles
+## Multiplicación con bucles
 
 Escribir un programa que pide un numero al usuario y muestra su tabla de multiplicar (del 1 al 10)
 
-### Obtener el siguiente segundo
+## Obtener el siguiente segundo
 
 Escribe un programa que solicite el tiempo en forma de tres datos (horas, minutos, segundos). El programa calcula y muestra el tiempo un segundo después. Deben manejarse las entradas incorrectas
 
@@ -149,7 +149,7 @@ Escribe un programa que solicite el tiempo en forma de tres datos (horas, minuto
 > - 6h59m59s => 7h0m0s
 > - 23h59m59s => 0h0m0s
 
-### ¿Cuáles son los valores de las variables al ejecutar el siguiente código?
+## ¿Cuáles son los valores de las variables al ejecutar el siguiente código?
 
 ```python
 nb1 = int(input("Enter nb1:"))
