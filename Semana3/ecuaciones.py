@@ -65,11 +65,11 @@ solucion = np.linalg.solve(matriz, vector)
 print(solucion)
 # NODO1
 # F15 * cos(angulo) + F12 + Ax = 0
-# F15 * sen(angulo) = P
+# F15 * sen(angulo) = -P
 
 # NODO2
 # F25 * cos(angulo) - F12 = -P
-# F25 * sen(angulo) = -P
+# F25 * sen(angulo) = P
 
 # NODO3
 # F34 - F35 * cos(angulo) = -P
