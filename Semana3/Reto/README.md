@@ -109,6 +109,7 @@ Defina un array `x` cuyo rango esté entre 0 y 500. Puede escoger el paso o la c
 - `y = 1 / 3 * (x ** 2) - 20`, desde 0 a 100
 - `y = - 1 / 3 x + 5`, desde 101 a 350
 - `y = - 5 * x + 2` desde 351 hasta 500.
+
   > Revise el video (Drive del curso) en el que explico la función piecewise para poder resolver este video
 
 ## Matrix Slicing
@@ -120,10 +121,13 @@ A continuación, cree una matriz que contenga las filas, columnas y los números
 > Hágalo mediante las funciones que Numpy provee para que no sea un proceso manual.
 
 Una vez tiene la matriz, obtenga las tres porciones (hacer slicing) de la matriz que se simbolizan con cada color:
+
 ![Tux, the Linux mascot](array.png)
 
 > Ejemplo de resultados:
-> **Matriz Azul:** _np.array([ [ 11, 12 ], [ 16, 17 ] ])_ > **Matriz Roja:** _np.array([ [ 4, 5 ], [ 24, 25 ], [ 29, 30 ] ])_ > **Vector verde:** _np.array([ 2, 8, 14, 20 ])_
+> **Matriz Azul:** np.array([ [ 11, 12 ], [ 16, 17 ] ])
+> **Matriz Roja:** np.array([ [ 4, 5 ], [ 24, 25 ], [ 29, 30 ] ])
+> **Vector verde:** np.array([ 2, 8, 14, 20 ])
 
 ### Segunda matriz
 
