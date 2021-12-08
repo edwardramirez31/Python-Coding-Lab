@@ -127,10 +127,12 @@ Una vez tiene la matriz, obtenga las tres porciones (hacer slicing) de la matriz
 
 ### Segunda matriz
 
-Ahora haga el mismo proceso anterior con esta matriz. Primero genere su forma automáticamente y después obtenga cada matriz o vector, según corresponda
+Ahora haga el mismo proceso anterior con esta matriz. Primero genere su forma automáticamente y después obtenga cada matriz o vector, según corresponda.
+
 ![Slicing Second Example](array2.png)
 
 ### Última matriz
 
 Realice el mismo proceso y extraiga submatrices o vectores. Slicing puede ser retador, por tanto, estos retos son suficientes para entenderlo de forma completa.
+
 ![Slicing Third Example](array3.png)
