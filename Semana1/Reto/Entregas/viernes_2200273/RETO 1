@@ -1,0 +1,4 @@
+print ("ESCRIBIR RADIO CON UN DECIMAL")
+radio = float ( input() )
+area = str ( 3.1416 * radio ** 2 )
+print ("SU AREA ES " + area)
