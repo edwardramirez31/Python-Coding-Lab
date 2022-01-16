@@ -17,6 +17,10 @@ Suponga que se varían ambas cargas distribuidas desde su carga original hasta 5
 
 > Es decir, la carga rectangular va desde 10kN/m hasta 60kN/m con pasos de 10 y lo mismo ocurre para la carga triangular
 
-Obtenga el momento máximo positivo para cada caso de carga y realice los 6 gráficos en matplotlib (1 para cada caso) donde se evidencie la variación del momento máximo con respecto aumenta la carga.
+Obtenga el momento máximo positivo para cada caso de carga y realice un gráfico en matplotlib donde se evidencie la variación del momento máximo con respecto aumenta la carga.
 
 > La gráfica debe tener en el `eje y` el valor del momento en kN-m y en el `eje x` el respectivo caso de carga para el cual se dio este fenómeno en kN/m (desde 10kN/m hasta 60kN/m)
+
+### Opcional
+
+Por medio de subplots grafique los 6 diferentes diagramas de momento acorde con la variación de la carga
