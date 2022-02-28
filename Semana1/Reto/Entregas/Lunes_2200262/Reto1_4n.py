@@ -1,0 +1,6 @@
+print("Vamos a sumar un número de una manera diferente")
+n = (input("Ingrese un número "))
+nn = str(n+n)
+nnn = str(n+n+n)
+suma = int(n)+int(nn)+int(nnn)
+print(f"El resultado de la suma es {suma}")
