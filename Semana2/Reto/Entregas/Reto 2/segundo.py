@@ -1,0 +1,1 @@
+Hora = input("dijite la hora: ")
