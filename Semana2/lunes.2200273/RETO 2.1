@@ -1,0 +1,18 @@
+def multiple (valor, multiple):
+    return True if valor % multiple == 0 else False
+ 
+multiples_3=[]
+multiples_5=[]
+ 
+for i in range(1500, 2700):
+ 
+    if multiple(i, 3):
+        multiples_3.append(i)
+ 
+    if multiple(i, 5):
+        multiples_5.append(i)
+ 
+print ("Los multiples de 3 son:", multiples_3)
+print ("\nLos multiples de 5 son:", multiples_5)
+  
+   
